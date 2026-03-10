@@ -1,6 +1,6 @@
 <!-- Banner / Wallpaper -->
 <p align="center">
-  <img src="https://github.com/theprofessordumbledore/hamzasakhi/blob/main/Images/infosec.png" alt="Hamza Sakhi Banner" width="100%">
+  <img src="https://github.com/theprofessordumbledore/whoami/blob/main/Images/infosec.png" alt="Hamza Sakhi Banner" width="100%">
 </p>
 
 <h1 align="center">Salam, I'm Hamza Sakhi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
