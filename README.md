@@ -25,13 +25,13 @@
 
 ## 💼 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/hamza-sakhi-20231523b/" target="blank">
+  <a href="https://www.linkedin.com/in/hamza-sakhi-20231523b/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" style="margin:5px;">
   </a>
-  <a href="https://theprofessordumbledore.medium.com" target="blank">
+  <a href="https://theprofessordumbledore.medium.com" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="35" style="margin:5px;">
   </a>
-  <a href="https://discord.gg/theprofessordumbledore" target="blank">
+  <a href="https://discord.gg/theprofessordumbledore" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="35" style="margin:5px;">
   </a>
 </p>
